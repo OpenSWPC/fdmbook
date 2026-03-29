@@ -1,6 +1,1 @@
----
-title: About
-type: about
----
-
-This is the about page.
+# 書籍情報
